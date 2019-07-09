@@ -1,6 +1,6 @@
 # amdavidson/sipcalc
 
-A super simple docker container for running [sii/sipcalc](/sii/sipcalc) without compiling / installing.
+A super simple docker container for running [sii/sipcalc](https://github.com/sii/sipcalc) without compiling / installing.
 
 ## Running sipcalc
 
